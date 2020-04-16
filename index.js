@@ -1,16 +1,16 @@
 require("dotenv").config();
 const axios = require("axios");
 
-const jsonboxID = process.env.JSONBOX_ID;
+const jsonboxURL = "https://jsonbox.io/box_429718364b64a9f80eba";
 const frequency = "2000";
 const message = {
-  device: process.env.DEVICE,
+  device: "NAS",
   timestamp: new Date().toLocaleString(),
 };
 
 const ping = () => {
   axios
-    .post(`https://jsonbox.io/${jsonboxID}`, message, {
+    .post(jsonboxURL, message, {
       headers: { "content-type": "application/json" },
     })
     .then(function (response) {
