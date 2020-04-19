@@ -12,8 +12,10 @@
   },
   "dependencies": {
     "baseui": "^9.71.0",
+    "chalk": "^4.0.0",
     "cross-env": "^7.0.2",
     "express": "^4.17.1",
+    "lowdb": "^1.0.0",
     "next": "latest",
     "ping": "^0.2.3",
     "react": "^16.13.1",

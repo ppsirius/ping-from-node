@@ -1,0 +1,5044 @@
+{
+  "log": [
+    {
+      "timestamp": "4/19/2020, 8:46:02 PM",
+      "ping": "114.323",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:04 PM",
+      "ping": "112.768",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:06 PM",
+      "ping": "117.695",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:08 PM",
+      "ping": "115.950",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:10 PM",
+      "ping": "112.993",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:12 PM",
+      "ping": "119.486",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:14 PM",
+      "ping": "121.441",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:16 PM",
+      "ping": "116.370",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:18 PM",
+      "ping": "115.189",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:20 PM",
+      "ping": "118.150",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:22 PM",
+      "ping": "118.431",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:24 PM",
+      "ping": "116.085",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:26 PM",
+      "ping": "136.682",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:28 PM",
+      "ping": "117.073",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:30 PM",
+      "ping": "117.859",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:32 PM",
+      "ping": "116.575",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:34 PM",
+      "ping": "114.184",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:36 PM",
+      "ping": "116.328",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:38 PM",
+      "ping": "115.041",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:40 PM",
+      "ping": "115.732",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:42 PM",
+      "ping": "114.752",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:44 PM",
+      "ping": "120.624",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:46 PM",
+      "ping": "116.057",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:48 PM",
+      "ping": "116.318",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:50 PM",
+      "ping": "137.620",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:52 PM",
+      "ping": "124.380",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:54 PM",
+      "ping": "120.181",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:56 PM",
+      "ping": "123.874",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:46:58 PM",
+      "ping": "113.201",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:00 PM",
+      "ping": "119.345",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:02 PM",
+      "ping": "117.628",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:04 PM",
+      "ping": "115.889",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:06 PM",
+      "ping": "116.115",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:08 PM",
+      "ping": "112.425",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:10 PM",
+      "ping": "113.989",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:12 PM",
+      "ping": "127.562",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:14 PM",
+      "ping": "113.540",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:16 PM",
+      "ping": "115.397",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:18 PM",
+      "ping": "117.363",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:20 PM",
+      "ping": "116.285",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:22 PM",
+      "ping": "114.527",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:24 PM",
+      "ping": "117.048",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:26 PM",
+      "ping": "122.349",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:28 PM",
+      "ping": "120.567",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:30 PM",
+      "ping": "112.937",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:32 PM",
+      "ping": "117.994",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:34 PM",
+      "ping": "117.473",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:36 PM",
+      "ping": "113.126",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:38 PM",
+      "ping": "114.075",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:40 PM",
+      "ping": "114.686",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:42 PM",
+      "ping": "113.571",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:44 PM",
+      "ping": "115.387",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:46 PM",
+      "ping": "114.881",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:48 PM",
+      "ping": "117.701",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:50 PM",
+      "ping": "119.055",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:52 PM",
+      "ping": "116.588",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:54 PM",
+      "ping": "113.353",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:56 PM",
+      "ping": "114.479",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:47:58 PM",
+      "ping": "118.305",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:00 PM",
+      "ping": "113.699",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:02 PM",
+      "ping": "117.608",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:04 PM",
+      "ping": "119.322",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:06 PM",
+      "ping": "115.045",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:08 PM",
+      "ping": "115.671",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:10 PM",
+      "ping": "113.362",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:12 PM",
+      "ping": "119.075",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:14 PM",
+      "ping": "120.441",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:16 PM",
+      "ping": "115.026",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:18 PM",
+      "ping": "118.766",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:20 PM",
+      "ping": "117.856",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:22 PM",
+      "ping": "119.590",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:24 PM",
+      "ping": "113.504",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:26 PM",
+      "ping": "116.437",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:28 PM",
+      "ping": "121.805",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:30 PM",
+      "ping": "119.969",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:32 PM",
+      "ping": "115.885",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:34 PM",
+      "ping": "113.736",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:36 PM",
+      "ping": "115.397",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:38 PM",
+      "ping": "117.757",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:40 PM",
+      "ping": "125.002",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:42 PM",
+      "ping": "113.525",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:44 PM",
+      "ping": "156.017",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:46 PM",
+      "ping": "117.284",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:48 PM",
+      "ping": "115.244",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:50 PM",
+      "ping": "114.729",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:52 PM",
+      "ping": "114.670",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:54 PM",
+      "ping": "114.054",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:56 PM",
+      "ping": "116.116",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:48:58 PM",
+      "ping": "118.709",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:00 PM",
+      "ping": "113.647",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:02 PM",
+      "ping": "122.047",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:04 PM",
+      "ping": "117.665",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:06 PM",
+      "ping": "115.641",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:08 PM",
+      "ping": "114.303",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:10 PM",
+      "ping": "122.720",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:12 PM",
+      "ping": "114.625",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:14 PM",
+      "ping": "115.831",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:16 PM",
+      "ping": "118.317",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:18 PM",
+      "ping": "113.532",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:20 PM",
+      "ping": "119.551",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:22 PM",
+      "ping": "115.267",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:24 PM",
+      "ping": "134.763",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:26 PM",
+      "ping": "114.676",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:28 PM",
+      "ping": "119.770",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:30 PM",
+      "ping": "117.126",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:32 PM",
+      "ping": "115.971",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:34 PM",
+      "ping": "117.100",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:36 PM",
+      "ping": "116.692",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:38 PM",
+      "ping": "118.572",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:40 PM",
+      "ping": "114.381",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:42 PM",
+      "ping": "115.328",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:44 PM",
+      "ping": "116.297",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:46 PM",
+      "ping": "116.217",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:48 PM",
+      "ping": "113.611",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:50 PM",
+      "ping": "117.072",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:52 PM",
+      "ping": "120.588",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:54 PM",
+      "ping": "112.447",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:56 PM",
+      "ping": "113.408",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:49:58 PM",
+      "ping": "118.722",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:00 PM",
+      "ping": "114.623",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:02 PM",
+      "ping": "113.589",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:04 PM",
+      "ping": "118.634",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:06 PM",
+      "ping": "124.325",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:08 PM",
+      "ping": "116.973",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:10 PM",
+      "ping": "120.519",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:12 PM",
+      "ping": "113.236",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:14 PM",
+      "ping": "119.717",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:16 PM",
+      "ping": "121.757",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:18 PM",
+      "ping": "115.544",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:20 PM",
+      "ping": "115.332",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:22 PM",
+      "ping": "210.152",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:24 PM",
+      "ping": "121.176",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:26 PM",
+      "ping": "114.533",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:28 PM",
+      "ping": "121.014",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:30 PM",
+      "ping": "115.188",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:32 PM",
+      "ping": "116.622",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:34 PM",
+      "ping": "118.240",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:36 PM",
+      "ping": "114.208",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:38 PM",
+      "ping": "114.658",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:40 PM",
+      "ping": "112.781",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:42 PM",
+      "ping": "118.216",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:44 PM",
+      "ping": "116.920",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:46 PM",
+      "ping": "330.983",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:48 PM",
+      "ping": "112.218",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:50 PM",
+      "ping": "116.903",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:52 PM",
+      "ping": "114.301",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:54 PM",
+      "ping": "119.188",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:56 PM",
+      "ping": "119.055",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:50:58 PM",
+      "ping": "124.308",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:00 PM",
+      "ping": "114.923",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:02 PM",
+      "ping": "119.384",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:04 PM",
+      "ping": "117.213",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:06 PM",
+      "ping": "111.705",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:08 PM",
+      "ping": "116.910",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:10 PM",
+      "ping": "116.030",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:12 PM",
+      "ping": "117.244",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:14 PM",
+      "ping": "132.781",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:16 PM",
+      "ping": "120.569",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:18 PM",
+      "ping": "116.743",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:20 PM",
+      "ping": "123.320",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:22 PM",
+      "ping": "118.338",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:24 PM",
+      "ping": "115.720",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:26 PM",
+      "ping": "118.533",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:28 PM",
+      "ping": "117.576",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:30 PM",
+      "ping": "134.323",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:32 PM",
+      "ping": "125.311",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:34 PM",
+      "ping": "117.467",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:36 PM",
+      "ping": "116.673",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:38 PM",
+      "ping": "116.271",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:40 PM",
+      "ping": "125.998",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:42 PM",
+      "ping": "122.703",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:44 PM",
+      "ping": "119.037",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:46 PM",
+      "ping": "114.822",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:48 PM",
+      "ping": "118.610",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:50 PM",
+      "ping": "115.194",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:52 PM",
+      "ping": "117.064",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:54 PM",
+      "ping": "120.350",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:56 PM",
+      "ping": "117.620",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:51:58 PM",
+      "ping": "123.764",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:00 PM",
+      "ping": "117.663",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:02 PM",
+      "ping": "118.540",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:04 PM",
+      "ping": "117.121",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:06 PM",
+      "ping": "115.864",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:08 PM",
+      "ping": "118.764",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:10 PM",
+      "ping": "114.795",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:12 PM",
+      "ping": "119.343",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:14 PM",
+      "ping": "116.883",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:16 PM",
+      "ping": "113.955",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:18 PM",
+      "ping": "119.712",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:20 PM",
+      "ping": "118.659",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:22 PM",
+      "ping": "125.672",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:24 PM",
+      "ping": "115.650",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:26 PM",
+      "ping": "123.597",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:28 PM",
+      "ping": "112.182",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:30 PM",
+      "ping": "115.141",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:32 PM",
+      "ping": "123.891",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:34 PM",
+      "ping": "116.189",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:36 PM",
+      "ping": "113.580",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:38 PM",
+      "ping": "118.593",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:40 PM",
+      "ping": "116.263",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:42 PM",
+      "ping": "114.890",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:44 PM",
+      "ping": "119.795",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:46 PM",
+      "ping": "113.949",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:48 PM",
+      "ping": "114.258",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:50 PM",
+      "ping": "126.652",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:52 PM",
+      "ping": "118.815",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:54 PM",
+      "ping": "115.765",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:56 PM",
+      "ping": "122.546",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:52:58 PM",
+      "ping": "119.953",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:00 PM",
+      "ping": "120.888",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:02 PM",
+      "ping": "119.485",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:04 PM",
+      "ping": "115.210",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:06 PM",
+      "ping": "120.576",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:08 PM",
+      "ping": "119.801",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:10 PM",
+      "ping": "114.500",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:12 PM",
+      "ping": "132.670",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:14 PM",
+      "ping": "128.381",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:16 PM",
+      "ping": "115.578",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:18 PM",
+      "ping": "115.753",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:20 PM",
+      "ping": "116.192",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:22 PM",
+      "ping": "118.258",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:24 PM",
+      "ping": "117.687",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:26 PM",
+      "ping": "123.155",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:28 PM",
+      "ping": "116.706",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:30 PM",
+      "ping": "114.891",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:32 PM",
+      "ping": "120.499",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:34 PM",
+      "ping": "114.807",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:36 PM",
+      "ping": "114.918",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:38 PM",
+      "ping": "117.221",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:40 PM",
+      "ping": "136.232",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:42 PM",
+      "ping": "115.326",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:44 PM",
+      "ping": "116.607",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:46 PM",
+      "ping": "114.229",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:48 PM",
+      "ping": "116.335",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:50 PM",
+      "ping": "119.140",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:52 PM",
+      "ping": "113.750",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:54 PM",
+      "ping": "120.648",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:56 PM",
+      "ping": "113.359",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:53:58 PM",
+      "ping": "113.152",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:00 PM",
+      "ping": "118.962",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:02 PM",
+      "ping": "113.905",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:04 PM",
+      "ping": "113.157",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:06 PM",
+      "ping": "111.866",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:08 PM",
+      "ping": "198.205",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:10 PM",
+      "ping": "117.217",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:12 PM",
+      "ping": "116.866",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:14 PM",
+      "ping": "117.953",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:16 PM",
+      "ping": "113.869",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:18 PM",
+      "ping": "112.711",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:20 PM",
+      "ping": "115.858",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:22 PM",
+      "ping": "113.546",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:24 PM",
+      "ping": "122.447",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:26 PM",
+      "ping": "115.343",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:28 PM",
+      "ping": "120.203",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:30 PM",
+      "ping": "121.416",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:32 PM",
+      "ping": "113.494",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:34 PM",
+      "ping": "144.710",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:36 PM",
+      "ping": "122.722",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:38 PM",
+      "ping": "140.757",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:40 PM",
+      "ping": "118.425",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:42 PM",
+      "ping": "254.298",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:44 PM",
+      "ping": "116.572",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:46 PM",
+      "ping": "114.939",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:48 PM",
+      "ping": "118.441",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:50 PM",
+      "ping": "119.362",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:52 PM",
+      "ping": "114.526",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:54 PM",
+      "ping": "116.465",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:56 PM",
+      "ping": "112.225",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:54:58 PM",
+      "ping": "114.256",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:00 PM",
+      "ping": "114.513",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:02 PM",
+      "ping": "116.858",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:04 PM",
+      "ping": "112.823",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:06 PM",
+      "ping": "116.591",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:08 PM",
+      "ping": "169.200",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:10 PM",
+      "ping": "114.833",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:12 PM",
+      "ping": "117.192",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:14 PM",
+      "ping": "126.093",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:16 PM",
+      "ping": "120.981",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:18 PM",
+      "ping": "121.212",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:20 PM",
+      "ping": "129.202",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:22 PM",
+      "ping": "117.246",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:24 PM",
+      "ping": "118.724",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:26 PM",
+      "ping": "122.025",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:28 PM",
+      "ping": "115.111",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:30 PM",
+      "ping": "116.390",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:32 PM",
+      "ping": "121.002",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:34 PM",
+      "ping": "115.021",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:36 PM",
+      "ping": "128.447",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:38 PM",
+      "ping": "116.138",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:40 PM",
+      "ping": "114.362",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:42 PM",
+      "ping": "124.616",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:44 PM",
+      "ping": "117.645",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:46 PM",
+      "ping": "113.951",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:48 PM",
+      "ping": "117.574",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:50 PM",
+      "ping": "114.551",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:52 PM",
+      "ping": "112.302",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:54 PM",
+      "ping": "122.422",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:56 PM",
+      "ping": "116.508",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:55:58 PM",
+      "ping": "116.913",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:00 PM",
+      "ping": "115.479",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:02 PM",
+      "ping": "127.726",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:04 PM",
+      "ping": "119.274",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:06 PM",
+      "ping": "115.355",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:08 PM",
+      "ping": "118.286",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:10 PM",
+      "ping": "114.693",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:12 PM",
+      "ping": "115.881",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:14 PM",
+      "ping": "114.550",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:16 PM",
+      "ping": "113.691",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:18 PM",
+      "ping": "117.770",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:20 PM",
+      "ping": "116.295",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:22 PM",
+      "ping": "117.764",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:24 PM",
+      "ping": "114.534",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:27 PM",
+      "ping": "116.841",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:28 PM",
+      "ping": "114.180",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:31 PM",
+      "ping": "124.148",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:33 PM",
+      "ping": "146.688",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:35 PM",
+      "ping": "115.793",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:37 PM",
+      "ping": "115.568",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:39 PM",
+      "ping": "116.999",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:41 PM",
+      "ping": "118.491",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:43 PM",
+      "ping": "122.549",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:45 PM",
+      "ping": "115.019",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:47 PM",
+      "ping": "122.710",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:49 PM",
+      "ping": "115.574",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:51 PM",
+      "ping": "114.120",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:53 PM",
+      "ping": "115.103",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:55 PM",
+      "ping": "115.791",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:57 PM",
+      "ping": "115.674",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:56:59 PM",
+      "ping": "115.637",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:01 PM",
+      "ping": "119.777",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:03 PM",
+      "ping": "112.904",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:05 PM",
+      "ping": "118.229",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:07 PM",
+      "ping": "115.591",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:09 PM",
+      "ping": "112.012",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:11 PM",
+      "ping": "115.765",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:13 PM",
+      "ping": "116.334",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:15 PM",
+      "ping": "119.702",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:17 PM",
+      "ping": "115.423",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:19 PM",
+      "ping": "114.750",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:21 PM",
+      "ping": "120.116",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:23 PM",
+      "ping": "112.886",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:25 PM",
+      "ping": "118.102",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:27 PM",
+      "ping": "119.335",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:29 PM",
+      "ping": "114.455",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:31 PM",
+      "ping": "114.380",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:33 PM",
+      "ping": "116.458",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:35 PM",
+      "ping": "123.725",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:37 PM",
+      "ping": "115.461",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:39 PM",
+      "ping": "117.729",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:41 PM",
+      "ping": "112.642",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:43 PM",
+      "ping": "119.975",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:45 PM",
+      "ping": "113.897",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:47 PM",
+      "ping": "112.649",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:49 PM",
+      "ping": "113.931",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:51 PM",
+      "ping": "117.810",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:53 PM",
+      "ping": "125.074",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:55 PM",
+      "ping": "115.175",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:57 PM",
+      "ping": "115.636",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:57:59 PM",
+      "ping": "118.250",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:01 PM",
+      "ping": "120.738",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:03 PM",
+      "ping": "117.038",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:05 PM",
+      "ping": "115.495",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:07 PM",
+      "ping": "117.655",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:09 PM",
+      "ping": "116.218",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:11 PM",
+      "ping": "118.549",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:13 PM",
+      "ping": "113.860",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:15 PM",
+      "ping": "119.523",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:17 PM",
+      "ping": "112.365",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:19 PM",
+      "ping": "115.720",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:21 PM",
+      "ping": "117.839",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:23 PM",
+      "ping": "112.305",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:25 PM",
+      "ping": "117.167",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:27 PM",
+      "ping": "116.956",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:29 PM",
+      "ping": "114.294",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:31 PM",
+      "ping": "118.820",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:33 PM",
+      "ping": "115.591",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:35 PM",
+      "ping": "114.336",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:37 PM",
+      "ping": "119.636",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:39 PM",
+      "ping": "117.935",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:41 PM",
+      "ping": "122.262",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:43 PM",
+      "ping": "123.339",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:45 PM",
+      "ping": "125.693",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:47 PM",
+      "ping": "119.806",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:49 PM",
+      "ping": "116.527",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:51 PM",
+      "ping": "117.934",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:53 PM",
+      "ping": "115.446",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:55 PM",
+      "ping": "119.203",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:57 PM",
+      "ping": "119.357",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:58:59 PM",
+      "ping": "115.758",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:01 PM",
+      "ping": "113.580",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:03 PM",
+      "ping": "117.700",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:05 PM",
+      "ping": "116.171",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:07 PM",
+      "ping": "114.069",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:09 PM",
+      "ping": "132.132",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:11 PM",
+      "ping": "113.833",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:13 PM",
+      "ping": "135.929",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:15 PM",
+      "ping": "114.930",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:17 PM",
+      "ping": "120.285",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:19 PM",
+      "ping": "115.724",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:21 PM",
+      "ping": "118.041",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:23 PM",
+      "ping": "119.643",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:25 PM",
+      "ping": "125.625",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:27 PM",
+      "ping": "117.495",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:29 PM",
+      "ping": "117.124",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:31 PM",
+      "ping": "114.447",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:33 PM",
+      "ping": "118.068",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:35 PM",
+      "ping": "119.731",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:37 PM",
+      "ping": "113.236",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:39 PM",
+      "ping": "113.679",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:41 PM",
+      "ping": "116.474",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:43 PM",
+      "ping": "119.339",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:45 PM",
+      "ping": "122.724",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:47 PM",
+      "ping": "114.742",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:49 PM",
+      "ping": "118.376",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:51 PM",
+      "ping": "120.664",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:53 PM",
+      "ping": "113.979",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:55 PM",
+      "ping": "124.154",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:57 PM",
+      "ping": "116.169",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 8:59:59 PM",
+      "ping": "121.668",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:01 PM",
+      "ping": "113.070",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:03 PM",
+      "ping": "116.404",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:05 PM",
+      "ping": "117.094",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:07 PM",
+      "ping": "159.215",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:09 PM",
+      "ping": "118.805",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:11 PM",
+      "ping": "113.952",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:13 PM",
+      "ping": "116.954",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:15 PM",
+      "ping": "134.517",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:17 PM",
+      "ping": "113.169",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:19 PM",
+      "ping": "117.661",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:21 PM",
+      "ping": "118.088",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:23 PM",
+      "ping": "127.699",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:25 PM",
+      "ping": "121.596",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:27 PM",
+      "ping": "115.625",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:29 PM",
+      "ping": "122.900",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:31 PM",
+      "ping": "117.138",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:33 PM",
+      "ping": "118.277",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:35 PM",
+      "ping": "117.536",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:37 PM",
+      "ping": "118.280",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:39 PM",
+      "ping": "553.749",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:41 PM",
+      "ping": "116.536",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:43 PM",
+      "ping": "117.694",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:45 PM",
+      "ping": "121.599",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:47 PM",
+      "ping": "119.404",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:49 PM",
+      "ping": "120.184",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:51 PM",
+      "ping": "117.907",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:53 PM",
+      "ping": "115.649",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:55 PM",
+      "ping": "122.557",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:57 PM",
+      "ping": "121.828",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:00:59 PM",
+      "ping": "114.313",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:01 PM",
+      "ping": "117.468",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:03 PM",
+      "ping": "118.387",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:05 PM",
+      "ping": "115.954",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:07 PM",
+      "ping": "116.208",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:09 PM",
+      "ping": "111.962",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:11 PM",
+      "ping": "112.645",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:13 PM",
+      "ping": "115.840",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:15 PM",
+      "ping": "119.606",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:17 PM",
+      "ping": "113.327",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:19 PM",
+      "ping": "118.653",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:21 PM",
+      "ping": "118.893",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:23 PM",
+      "ping": "119.955",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:25 PM",
+      "ping": "117.669",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:27 PM",
+      "ping": "112.356",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:29 PM",
+      "ping": "128.810",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:31 PM",
+      "ping": "117.190",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:33 PM",
+      "ping": "116.398",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:35 PM",
+      "ping": "115.101",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:37 PM",
+      "ping": "117.224",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:39 PM",
+      "ping": "121.454",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:41 PM",
+      "ping": "112.423",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:43 PM",
+      "ping": "117.113",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:45 PM",
+      "ping": "117.355",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:47 PM",
+      "ping": "114.980",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:49 PM",
+      "ping": "116.225",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:51 PM",
+      "ping": "115.524",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:53 PM",
+      "ping": "117.058",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:55 PM",
+      "ping": "117.519",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:57 PM",
+      "ping": "119.163",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:01:59 PM",
+      "ping": "118.484",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:01 PM",
+      "ping": "116.329",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:03 PM",
+      "ping": "117.237",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:05 PM",
+      "ping": "117.911",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:07 PM",
+      "ping": "118.246",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:09 PM",
+      "ping": "114.150",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:11 PM",
+      "ping": "117.546",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:13 PM",
+      "ping": "114.639",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:15 PM",
+      "ping": "117.226",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:17 PM",
+      "ping": "119.713",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:19 PM",
+      "ping": "114.687",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:21 PM",
+      "ping": "116.699",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:23 PM",
+      "ping": "115.019",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:25 PM",
+      "ping": "119.177",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:27 PM",
+      "ping": "126.050",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:29 PM",
+      "ping": "115.983",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:31 PM",
+      "ping": "126.272",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:33 PM",
+      "ping": "116.573",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:35 PM",
+      "ping": "128.375",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:37 PM",
+      "ping": "273.411",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:39 PM",
+      "ping": "117.452",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:41 PM",
+      "ping": "117.388",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:43 PM",
+      "ping": "113.063",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:45 PM",
+      "ping": "112.510",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:47 PM",
+      "ping": "114.539",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:49 PM",
+      "ping": "121.649",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:51 PM",
+      "ping": "114.384",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:53 PM",
+      "ping": "118.010",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:55 PM",
+      "ping": "115.747",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:57 PM",
+      "ping": "118.658",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:02:59 PM",
+      "ping": "117.527",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:01 PM",
+      "ping": "124.347",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:03 PM",
+      "ping": "118.449",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:05 PM",
+      "ping": "114.298",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:07 PM",
+      "ping": "131.042",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:09 PM",
+      "ping": "116.787",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:11 PM",
+      "ping": "130.268",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:13 PM",
+      "ping": "126.749",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:15 PM",
+      "ping": "114.652",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:17 PM",
+      "ping": "112.599",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:19 PM",
+      "ping": "114.770",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:21 PM",
+      "ping": "116.211",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:23 PM",
+      "ping": "116.453",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:25 PM",
+      "ping": "113.742",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:27 PM",
+      "ping": "118.663",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:29 PM",
+      "ping": "117.092",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:31 PM",
+      "ping": "113.805",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:33 PM",
+      "ping": "120.535",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:35 PM",
+      "ping": "120.600",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:37 PM",
+      "ping": "119.058",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:39 PM",
+      "ping": "115.501",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:41 PM",
+      "ping": "113.715",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:43 PM",
+      "ping": "116.944",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:45 PM",
+      "ping": "117.018",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:47 PM",
+      "ping": "116.592",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:49 PM",
+      "ping": "119.916",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:51 PM",
+      "ping": "115.003",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:53 PM",
+      "ping": "114.906",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:55 PM",
+      "ping": "115.244",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:57 PM",
+      "ping": "113.746",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:03:59 PM",
+      "ping": "120.231",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:01 PM",
+      "ping": "117.259",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:03 PM",
+      "ping": "115.202",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:05 PM",
+      "ping": "116.965",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:07 PM",
+      "ping": "115.677",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:09 PM",
+      "ping": "116.919",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:11 PM",
+      "ping": "118.719",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:13 PM",
+      "ping": "129.196",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:15 PM",
+      "ping": "115.712",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:17 PM",
+      "ping": "113.133",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:19 PM",
+      "ping": "114.653",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:21 PM",
+      "ping": "114.373",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:23 PM",
+      "ping": "116.788",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:25 PM",
+      "ping": "117.822",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:27 PM",
+      "ping": "115.604",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:29 PM",
+      "ping": "116.678",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:31 PM",
+      "ping": "115.705",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:33 PM",
+      "ping": "118.398",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:35 PM",
+      "ping": "115.023",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:37 PM",
+      "ping": "115.588",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:39 PM",
+      "ping": "114.770",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:41 PM",
+      "ping": "115.119",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:43 PM",
+      "ping": "112.872",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:45 PM",
+      "ping": "119.725",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:47 PM",
+      "ping": "112.809",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:49 PM",
+      "ping": "120.077",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:51 PM",
+      "ping": "116.749",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:54 PM",
+      "ping": "270.810",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:55 PM",
+      "ping": "121.109",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:57 PM",
+      "ping": "117.762",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:04:59 PM",
+      "ping": "112.910",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:01 PM",
+      "ping": "114.904",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:03 PM",
+      "ping": "168.700",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:05 PM",
+      "ping": "119.300",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:07 PM",
+      "ping": "116.677",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:09 PM",
+      "ping": "115.692",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:11 PM",
+      "ping": "115.965",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:13 PM",
+      "ping": "114.971",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:15 PM",
+      "ping": "115.433",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:17 PM",
+      "ping": "115.763",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:19 PM",
+      "ping": "119.611",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:21 PM",
+      "ping": "126.146",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:23 PM",
+      "ping": "113.868",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:25 PM",
+      "ping": "115.799",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:27 PM",
+      "ping": "117.793",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:29 PM",
+      "ping": "116.114",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:31 PM",
+      "ping": "117.042",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:33 PM",
+      "ping": "124.729",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:35 PM",
+      "ping": "116.808",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:37 PM",
+      "ping": "116.017",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:39 PM",
+      "ping": "119.461",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:41 PM",
+      "ping": "116.723",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:43 PM",
+      "ping": "118.489",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:45 PM",
+      "ping": "115.021",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:47 PM",
+      "ping": "119.085",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:49 PM",
+      "ping": "115.219",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:51 PM",
+      "ping": "115.554",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:53 PM",
+      "ping": "119.850",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:55 PM",
+      "ping": "116.533",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:57 PM",
+      "ping": "138.573",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:05:59 PM",
+      "ping": "116.232",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:01 PM",
+      "ping": "118.361",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:03 PM",
+      "ping": "115.029",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:05 PM",
+      "ping": "121.226",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:07 PM",
+      "ping": "115.192",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:09 PM",
+      "ping": "116.100",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:11 PM",
+      "ping": "112.721",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:13 PM",
+      "ping": "129.351",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:15 PM",
+      "ping": "119.951",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:17 PM",
+      "ping": "114.418",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:19 PM",
+      "ping": "127.287",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:21 PM",
+      "ping": "119.753",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:23 PM",
+      "ping": "121.168",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:25 PM",
+      "ping": "121.405",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:27 PM",
+      "ping": "119.876",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:30 PM",
+      "ping": "158.741",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:31 PM",
+      "ping": "114.023",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:33 PM",
+      "ping": "124.630",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:35 PM",
+      "ping": "113.584",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:38 PM",
+      "ping": "120.022",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:40 PM",
+      "ping": "146.323",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:42 PM",
+      "ping": "116.932",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:44 PM",
+      "ping": "113.715",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:46 PM",
+      "ping": "118.044",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:48 PM",
+      "ping": "113.955",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:50 PM",
+      "ping": "115.779",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:52 PM",
+      "ping": "117.217",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:54 PM",
+      "ping": "112.712",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:56 PM",
+      "ping": "234.387",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:06:58 PM",
+      "ping": "116.132",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:00 PM",
+      "ping": "120.226",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:02 PM",
+      "ping": "124.675",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:04 PM",
+      "ping": "119.464",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:06 PM",
+      "ping": "115.356",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:08 PM",
+      "ping": "113.657",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:10 PM",
+      "ping": "121.740",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:12 PM",
+      "ping": "117.942",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:14 PM",
+      "ping": "113.776",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:16 PM",
+      "ping": "117.806",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:18 PM",
+      "ping": "113.966",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:20 PM",
+      "ping": "116.920",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:22 PM",
+      "ping": "115.486",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:24 PM",
+      "ping": "115.814",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:26 PM",
+      "ping": "118.785",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:28 PM",
+      "ping": "116.652",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:30 PM",
+      "ping": "114.393",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:32 PM",
+      "ping": "118.819",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:34 PM",
+      "ping": "116.886",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:36 PM",
+      "ping": "114.737",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:38 PM",
+      "ping": "116.276",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:40 PM",
+      "ping": "116.759",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:42 PM",
+      "ping": "114.537",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:44 PM",
+      "ping": "117.061",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:46 PM",
+      "ping": "113.080",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:48 PM",
+      "ping": "113.524",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:50 PM",
+      "ping": "119.145",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:52 PM",
+      "ping": "118.987",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:54 PM",
+      "ping": "112.342",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:56 PM",
+      "ping": "129.216",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:07:58 PM",
+      "ping": "117.475",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:00 PM",
+      "ping": "113.223",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:02 PM",
+      "ping": "113.801",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:04 PM",
+      "ping": "116.684",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:06 PM",
+      "ping": "113.660",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:08 PM",
+      "ping": "120.777",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:10 PM",
+      "ping": "117.441",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:12 PM",
+      "ping": "114.133",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:14 PM",
+      "ping": "115.711",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:16 PM",
+      "ping": "119.176",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:18 PM",
+      "ping": "114.506",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:20 PM",
+      "ping": "119.451",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:22 PM",
+      "ping": "116.642",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:24 PM",
+      "ping": "114.281",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:26 PM",
+      "ping": "113.709",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:28 PM",
+      "ping": "114.550",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:30 PM",
+      "ping": "114.432",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:32 PM",
+      "ping": "117.880",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:34 PM",
+      "ping": "113.005",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:36 PM",
+      "ping": "122.630",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:38 PM",
+      "ping": "114.571",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:40 PM",
+      "ping": "116.735",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:42 PM",
+      "ping": "113.216",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:44 PM",
+      "ping": "112.009",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:46 PM",
+      "ping": "116.718",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:48 PM",
+      "ping": "113.217",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:50 PM",
+      "ping": "118.084",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:52 PM",
+      "ping": "114.409",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:54 PM",
+      "ping": "120.255",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:56 PM",
+      "ping": "113.294",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:08:58 PM",
+      "ping": "115.230",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:00 PM",
+      "ping": "121.649",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:02 PM",
+      "ping": "134.259",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:04 PM",
+      "ping": "116.138",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:06 PM",
+      "ping": "120.756",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:08 PM",
+      "ping": "114.318",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:10 PM",
+      "ping": "113.442",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:12 PM",
+      "ping": "113.171",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:14 PM",
+      "ping": "129.542",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:16 PM",
+      "ping": "113.564",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:18 PM",
+      "ping": "116.596",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:20 PM",
+      "ping": "118.842",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:22 PM",
+      "ping": "111.895",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:24 PM",
+      "ping": "115.196",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:26 PM",
+      "ping": "163.349",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:28 PM",
+      "ping": "116.309",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:30 PM",
+      "ping": "114.163",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:32 PM",
+      "ping": "113.678",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:34 PM",
+      "ping": "120.643",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:36 PM",
+      "ping": "137.721",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:38 PM",
+      "ping": "115.365",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:40 PM",
+      "ping": "113.393",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:42 PM",
+      "ping": "115.501",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:44 PM",
+      "ping": "128.842",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:46 PM",
+      "ping": "116.934",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:48 PM",
+      "ping": "122.143",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:50 PM",
+      "ping": "118.856",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:52 PM",
+      "ping": "114.188",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:54 PM",
+      "ping": "117.256",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:56 PM",
+      "ping": "115.492",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:09:58 PM",
+      "ping": "115.406",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:00 PM",
+      "ping": "120.068",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:02 PM",
+      "ping": "117.952",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:04 PM",
+      "ping": "113.066",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:06 PM",
+      "ping": "114.097",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:08 PM",
+      "ping": "118.115",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:10 PM",
+      "ping": "116.907",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:12 PM",
+      "ping": "114.624",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:14 PM",
+      "ping": "116.714",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:16 PM",
+      "ping": "118.399",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:18 PM",
+      "ping": "114.501",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:20 PM",
+      "ping": "113.817",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:22 PM",
+      "ping": "114.312",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:24 PM",
+      "ping": "114.157",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:26 PM",
+      "ping": "115.651",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:28 PM",
+      "ping": "112.148",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:30 PM",
+      "ping": "118.183",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:32 PM",
+      "ping": "115.327",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:34 PM",
+      "ping": "116.696",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:36 PM",
+      "ping": "132.302",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:38 PM",
+      "ping": "115.317",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:40 PM",
+      "ping": "117.944",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:42 PM",
+      "ping": "115.853",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:44 PM",
+      "ping": "115.564",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:46 PM",
+      "ping": "114.392",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:48 PM",
+      "ping": "118.283",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:50 PM",
+      "ping": "112.186",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:52 PM",
+      "ping": "115.334",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:54 PM",
+      "ping": "116.825",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:56 PM",
+      "ping": "117.964",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:10:58 PM",
+      "ping": "120.392",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:00 PM",
+      "ping": "114.064",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:02 PM",
+      "ping": "116.691",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:04 PM",
+      "ping": "115.506",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:06 PM",
+      "ping": "140.919",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:08 PM",
+      "ping": "113.874",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:10 PM",
+      "ping": "114.378",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:12 PM",
+      "ping": "112.696",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:14 PM",
+      "ping": "113.523",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:16 PM",
+      "ping": "119.149",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:18 PM",
+      "ping": "113.000",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:20 PM",
+      "ping": "116.608",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:22 PM",
+      "ping": "179.875",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:24 PM",
+      "ping": "116.920",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:26 PM",
+      "ping": "112.757",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:28 PM",
+      "ping": "114.832",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:30 PM",
+      "ping": "111.989",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:32 PM",
+      "ping": "114.789",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:34 PM",
+      "ping": "119.478",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:36 PM",
+      "ping": "113.299",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:38 PM",
+      "ping": "332.581",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:40 PM",
+      "ping": "112.517",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:42 PM",
+      "ping": "117.770",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:44 PM",
+      "ping": "115.725",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:46 PM",
+      "ping": "115.166",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:48 PM",
+      "ping": "119.164",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:50 PM",
+      "ping": "115.922",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:52 PM",
+      "ping": "116.863",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:54 PM",
+      "ping": "117.443",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:56 PM",
+      "ping": "124.187",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:11:58 PM",
+      "ping": "115.426",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:00 PM",
+      "ping": "121.205",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:02 PM",
+      "ping": "119.799",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:04 PM",
+      "ping": "117.654",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:06 PM",
+      "ping": "115.796",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:08 PM",
+      "ping": "115.082",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:10 PM",
+      "ping": "124.233",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:12 PM",
+      "ping": "117.122",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:14 PM",
+      "ping": "118.621",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:16 PM",
+      "ping": "114.714",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:18 PM",
+      "ping": "115.287",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:20 PM",
+      "ping": "113.026",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:22 PM",
+      "ping": "114.670",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:24 PM",
+      "ping": "126.870",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:26 PM",
+      "ping": "115.263",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:28 PM",
+      "ping": "115.784",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:30 PM",
+      "ping": "112.850",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:32 PM",
+      "ping": "114.677",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:34 PM",
+      "ping": "116.784",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:36 PM",
+      "ping": "114.053",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:38 PM",
+      "ping": "116.827",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:40 PM",
+      "ping": "162.181",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:42 PM",
+      "ping": "117.696",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:44 PM",
+      "ping": "115.855",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:46 PM",
+      "ping": "122.637",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:48 PM",
+      "ping": "115.086",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:50 PM",
+      "ping": "118.577",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:52 PM",
+      "ping": "113.650",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:54 PM",
+      "ping": "114.508",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:56 PM",
+      "ping": "115.853",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:12:58 PM",
+      "ping": "115.958",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:00 PM",
+      "ping": "128.435",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:02 PM",
+      "ping": "116.227",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:04 PM",
+      "ping": "117.997",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:06 PM",
+      "ping": "113.976",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:08 PM",
+      "ping": "114.128",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:10 PM",
+      "ping": "114.354",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:12 PM",
+      "ping": "116.576",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:14 PM",
+      "ping": "116.281",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:16 PM",
+      "ping": "118.676",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:18 PM",
+      "ping": "123.905",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:20 PM",
+      "ping": "118.192",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:22 PM",
+      "ping": "113.515",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:24 PM",
+      "ping": "114.009",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:26 PM",
+      "ping": "115.907",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:28 PM",
+      "ping": "119.233",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:30 PM",
+      "ping": "113.217",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:32 PM",
+      "ping": "114.017",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:34 PM",
+      "ping": "112.975",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:36 PM",
+      "ping": "112.143",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:38 PM",
+      "ping": "113.382",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:40 PM",
+      "ping": "115.444",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:42 PM",
+      "ping": "112.963",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:44 PM",
+      "ping": "113.448",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:46 PM",
+      "ping": "114.920",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:48 PM",
+      "ping": "115.623",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:50 PM",
+      "ping": "124.355",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:52 PM",
+      "ping": "114.753",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:54 PM",
+      "ping": "112.876",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:56 PM",
+      "ping": "116.419",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:13:58 PM",
+      "ping": "117.574",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:00 PM",
+      "ping": "113.108",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:02 PM",
+      "ping": "113.535",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:04 PM",
+      "ping": "112.966",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:06 PM",
+      "ping": "113.019",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:08 PM",
+      "ping": "118.567",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:10 PM",
+      "ping": "112.528",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:12 PM",
+      "ping": "116.788",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:14 PM",
+      "ping": "114.209",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:16 PM",
+      "ping": "112.935",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:18 PM",
+      "ping": "112.996",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:20 PM",
+      "ping": "128.486",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:22 PM",
+      "ping": "116.620",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:24 PM",
+      "ping": "114.145",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:26 PM",
+      "ping": "114.454",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:28 PM",
+      "ping": "113.264",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:30 PM",
+      "ping": "115.520",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:32 PM",
+      "ping": "115.741",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:34 PM",
+      "ping": "116.954",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:36 PM",
+      "ping": "117.734",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:38 PM",
+      "ping": "114.834",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:40 PM",
+      "ping": "115.461",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:42 PM",
+      "ping": "117.846",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:44 PM",
+      "ping": "115.468",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:46 PM",
+      "ping": "119.663",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:48 PM",
+      "ping": "118.232",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:50 PM",
+      "ping": "117.669",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:52 PM",
+      "ping": "115.102",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:54 PM",
+      "ping": "113.372",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:56 PM",
+      "ping": "116.136",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:14:58 PM",
+      "ping": "116.493",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:15:00 PM",
+      "ping": "116.067",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:15:02 PM",
+      "ping": "115.198",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:15:04 PM",
+      "ping": "113.087",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:15:06 PM",
+      "ping": "114.690",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:15:08 PM",
+      "ping": "116.369",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:15:10 PM",
+      "ping": "113.806",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:15:12 PM",
+      "ping": "129.091",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:15:14 PM",
+      "ping": "112.877",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:15:16 PM",
+      "ping": "113.747",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:15:18 PM",
+      "ping": "114.789",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:15:20 PM",
+      "ping": "114.267",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:15:22 PM",
+      "ping": "113.667",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:15:24 PM",
+      "ping": "221.054",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:29 PM",
+      "ping": "119.391",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:31 PM",
+      "ping": "114.109",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:33 PM",
+      "ping": "118.704",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:35 PM",
+      "ping": "117.508",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:37 PM",
+      "ping": "116.237",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:39 PM",
+      "ping": "115.204",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:41 PM",
+      "ping": "113.013",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:43 PM",
+      "ping": "115.440",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:46 PM",
+      "ping": "420.203",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:47 PM",
+      "ping": "117.817",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:49 PM",
+      "ping": "114.741",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:51 PM",
+      "ping": "121.596",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:53 PM",
+      "ping": "118.230",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:55 PM",
+      "ping": "116.988",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:57 PM",
+      "ping": "115.352",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:18:59 PM",
+      "ping": "118.119",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:01 PM",
+      "ping": "144.510",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:03 PM",
+      "ping": "117.792",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:05 PM",
+      "ping": "116.230",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:07 PM",
+      "ping": "118.950",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:09 PM",
+      "ping": "115.399",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:11 PM",
+      "ping": "112.521",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:13 PM",
+      "ping": "114.080",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:15 PM",
+      "ping": "113.982",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:17 PM",
+      "ping": "118.020",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:19 PM",
+      "ping": "114.567",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:21 PM",
+      "ping": "115.054",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:42 PM",
+      "ping": "121.809",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:44 PM",
+      "ping": "114.646",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:46 PM",
+      "ping": "120.499",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:48 PM",
+      "ping": "118.749",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:50 PM",
+      "ping": "120.600",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:52 PM",
+      "ping": "113.540",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:54 PM",
+      "ping": "115.558",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:56 PM",
+      "ping": "117.643",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:19:58 PM",
+      "ping": "114.718",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:00 PM",
+      "ping": "124.422",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:02 PM",
+      "ping": "114.183",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:04 PM",
+      "ping": "113.882",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:06 PM",
+      "ping": "114.484",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:08 PM",
+      "ping": "117.904",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:10 PM",
+      "ping": "114.182",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:13 PM",
+      "ping": "122.725",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:15 PM",
+      "ping": "119.080",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:16 PM",
+      "ping": "117.688",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:19 PM",
+      "ping": "124.678",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:21 PM",
+      "ping": "118.661",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:23 PM",
+      "ping": "113.733",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:26 PM",
+      "ping": "32.264",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:26 PM",
+      "ping": "32.719",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:28 PM",
+      "ping": "31.437",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:30 PM",
+      "ping": "29.904",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:32 PM",
+      "ping": "30.044",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:34 PM",
+      "ping": "31.358",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:36 PM",
+      "ping": "29.897",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:38 PM",
+      "ping": "34.666",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:40 PM",
+      "ping": "36.334",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:42 PM",
+      "ping": "30.075",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:44 PM",
+      "ping": "30.709",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:46 PM",
+      "ping": "31.589",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:48 PM",
+      "ping": "30.320",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:50 PM",
+      "ping": "36.138",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:52 PM",
+      "ping": "31.007",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:54 PM",
+      "ping": "37.950",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:56 PM",
+      "ping": "29.582",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:20:58 PM",
+      "ping": "30.990",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:00 PM",
+      "ping": "30.247",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:02 PM",
+      "ping": "30.986",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:04 PM",
+      "ping": "29.493",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:06 PM",
+      "ping": "29.648",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:08 PM",
+      "ping": "31.016",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:10 PM",
+      "ping": "30.352",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:12 PM",
+      "ping": "30.833",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:14 PM",
+      "ping": "unknown",
+      "host": "unknown"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:16 PM",
+      "ping": "unknown",
+      "host": "unknown"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:18 PM",
+      "ping": "unknown",
+      "host": "unknown"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:20 PM",
+      "ping": "unknown",
+      "host": "unknown"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:22 PM",
+      "ping": "unknown",
+      "host": "unknown"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:24 PM",
+      "ping": "unknown",
+      "host": "unknown"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:26 PM",
+      "ping": "unknown",
+      "host": "unknown"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:28 PM",
+      "ping": "unknown",
+      "host": "unknown"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:30 PM",
+      "ping": "unknown",
+      "host": "unknown"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:32 PM",
+      "ping": "unknown",
+      "host": "unknown"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:34 PM",
+      "ping": "unknown",
+      "host": "unknown"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:40 PM",
+      "ping": "30.896",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:40 PM",
+      "ping": "31.600",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:41 PM",
+      "ping": "30.451",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:43 PM",
+      "ping": "35.436",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:45 PM",
+      "ping": "30.221",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:47 PM",
+      "ping": "30.698",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:49 PM",
+      "ping": "31.074",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:51 PM",
+      "ping": "32.903",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:53 PM",
+      "ping": "31.766",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:55 PM",
+      "ping": "38.554",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:57 PM",
+      "ping": "29.668",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:21:59 PM",
+      "ping": "32.094",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:01 PM",
+      "ping": "30.644",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:03 PM",
+      "ping": "31.423",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:05 PM",
+      "ping": "32.408",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:07 PM",
+      "ping": "31.125",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:09 PM",
+      "ping": "30.046",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:11 PM",
+      "ping": "29.830",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:13 PM",
+      "ping": "34.535",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:15 PM",
+      "ping": "31.537",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:17 PM",
+      "ping": "29.925",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:19 PM",
+      "ping": "31.125",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:21 PM",
+      "ping": "29.938",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:23 PM",
+      "ping": "31.494",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:25 PM",
+      "ping": "31.857",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:27 PM",
+      "ping": "29.904",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:29 PM",
+      "ping": "30.965",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:31 PM",
+      "ping": "32.247",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:33 PM",
+      "ping": "29.958",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:35 PM",
+      "ping": "30.428",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:37 PM",
+      "ping": "31.498",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:39 PM",
+      "ping": "30.252",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:41 PM",
+      "ping": "32.646",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:43 PM",
+      "ping": "33.287",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:45 PM",
+      "ping": "30.814",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:47 PM",
+      "ping": "31.363",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:49 PM",
+      "ping": "30.157",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:51 PM",
+      "ping": "30.412",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:53 PM",
+      "ping": "31.298",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:55 PM",
+      "ping": "30.685",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:57 PM",
+      "ping": "36.668",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:22:59 PM",
+      "ping": "36.976",
+      "host": "google.com"
+    },
+    {
+      "timestamp": "4/19/2020, 9:23:01 PM",
+      "ping": "30.394",
+      "host": "google.com"
+    }
+  ]
+}
