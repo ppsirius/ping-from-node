@@ -11,11 +11,14 @@
     "prod": "npm run build && npm run start"
   },
   "dependencies": {
+    "baseui": "^9.71.0",
     "cross-env": "^7.0.2",
     "express": "^4.17.1",
     "next": "latest",
+    "ping": "^0.2.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "ping": "^0.2.3"
+    "styletron-engine-atomic": "^1.1.2",
+    "styletron-react": "^5.0.1"
   }
 }
