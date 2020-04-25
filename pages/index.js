@@ -1,29 +1,26 @@
-import React, { useInterval, useEffect } from "react";
+import React, { useEffect } from "react";
 import { Card, StyledAction } from "baseui/card";
 import { Button } from "baseui/button";
 import { Slider } from "baseui/slider";
 import { Block } from "baseui/block";
+import useInterval from "@use-it/interval";
+import { getLastLog, getLog, startPingTest, clearDatabase } from "../utils/api";
 
 export default () => {
   const [value, setValue] = React.useState([2]);
 
-  const startPingTest = () => {
-    fetch("/api/ping");
-  };
-
   const [logs, setLogs] = React.useState([]);
 
   useEffect(() => {
-    const interval = setInterval(async () => {
+    (async () => {
       setLogs(await getLog());
-    }, 2000);
-    return () => clearInterval(interval);
+    })();
   }, []);
 
-  const getLog = async () => {
-    const res = await fetch("/api/logs");
-    return await res.json();
-  };
+  useInterval(async () => {
+    const lastLog = await getLastLog();
+    setLogs((logs) => [...logs, lastLog]);
+  }, 2000);
 
   return (
     <div>
@@ -37,21 +34,15 @@ export default () => {
           />
 
           <StyledAction>
-            <Button
-              overrides={{
-                BaseButton: { style: { width: "100%" } },
-              }}
-              onClick={() => startPingTest()}
-            >
-              Start Ping Test
-            </Button>
+            <Button onClick={() => startPingTest()}>Start Ping Test</Button>
+            <Button onClick={() => clearDatabase()}>Clear database</Button>
           </StyledAction>
         </Card>
       </Block>
       <br />
       <Block width={["600px"]} backgroundColor="primary200">
         <Card>
-          {logs &&
+          {logs.length > 0 &&
             logs
               .slice(0)
               .reverse()

@@ -1,12 +1,16 @@
 import db from "../../utils/lowdb";
 
 const getLogs = () => {
-  return db.get("log").sortBy("timestamp");
+  return db.get("logs").sortBy("timestamp");
 };
 
 const getLastLog = () => {
-  const logsLength = db.get("log").size().value();
-  return db.get(`log[${logsLength - 1}]`).value();
+  const logsLength = db.get("logs").size().value();
+  return db.get(`logs[${logsLength - 1}]`).value();
+};
+
+const deleteAllLogs = () => {
+  db.get("logs").remove().write();
 };
 
 export default (req, res) => {
@@ -20,6 +24,9 @@ export default (req, res) => {
     } else {
       res.end(JSON.stringify(getLogs()));
     }
+  } else if (req.method === "DELETE") {
+    deleteAllLogs();
+    res.end(JSON.stringify("Successful deleted"));
   } else {
     new Error("Unhandled method");
   }

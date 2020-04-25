@@ -24,7 +24,7 @@ const hostsLoop = () => {
 };
 
 const addEntityLog = (date, ping, host) => {
-  db.get("log").push({ timestamp: date, ping: ping, host: host }).write();
+  db.get("logs").push({ timestamp: date, ping: ping, host: host }).write();
 };
 
 export default (req, res) => {
