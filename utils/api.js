@@ -17,5 +17,8 @@ export const clearDatabase = () => {
 };
 
 export const startPingTest = () => {
-  fetch("/api/ping");
+  fetch("/api/ping?host=google.com&frequency=2000", {
+    host: "google.com",
+    frequency: 2000,
+  });
 };

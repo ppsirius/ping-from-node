@@ -17,10 +17,10 @@ export default () => {
     })();
   }, []);
 
-  useInterval(async () => {
-    const lastLog = await getLastLog();
-    setLogs((logs) => [...logs, lastLog]);
-  }, 2000);
+  // useInterval(async () => {
+  //   const lastLog = await getLastLog();
+  //   setLogs((logs) => [...logs, lastLog]);
+  // }, 2000);
 
   return (
     <div>

@@ -6,6 +6,8 @@ const getLogs = () => {
 
 const getLastLog = () => {
   const logsLength = db.get("logs").size().value();
+
+  console.log(db.get(`logs[${logsLength - 1}]`).value(), " last log");
   return db.get(`logs[${logsLength - 1}]`).value();
 };
 
