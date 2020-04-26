@@ -1,4 +1,5 @@
 import fetch from "isomorphic-fetch";
+import { composeStatic } from "styletron-react";
 
 export const getLog = async () => {
   const res = await fetch("/api/logs");
@@ -21,4 +22,9 @@ export const startPingTest = () => {
     host: "google.com",
     frequency: 2000,
   });
+};
+
+export const checkStatus = async () => {
+  const res = await fetch("/api/ping/status");
+  return await res.json();
 };

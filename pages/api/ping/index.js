@@ -2,17 +2,21 @@ import db from "../../../utils/lowdb";
 const chalk = require("chalk");
 const ping = require("ping");
 
-export let pingLoopRunning = false;
-let loopInterval = null;
+let pingLoopStatus = false;
 
-const startLoopInterval = (hostToPing, frequency) => {
-  loopInterval = setInterval(() => pingLoop(hostToPing), frequency);
-  pingLoopRunning = true;
+export const pingStatus = {
+  toggle: () => (pingLoopStatus = !pingLoopStatus),
+  get: () => pingLoopStatus,
 };
 
+let loopInterval = null;
+const startLoopInterval = (hostToPing, frequency) => {
+  loopInterval = setInterval(() => pingLoop(hostToPing), frequency);
+  pingStatus.toggle();
+};
 const stopLoopInterval = () => {
   clearInterval(loopInterval);
-  pingLoopRunning = false;
+  pingStatus.toggle();
 };
 
 const pingLoop = (host) => {
@@ -41,7 +45,7 @@ export default (req, res) => {
       query: { host, frequency },
     } = req;
 
-    if (!pingLoopRunning) {
+    if (!pingStatus.get()) {
       startLoopInterval(host, frequency);
     } else {
       stopLoopInterval();

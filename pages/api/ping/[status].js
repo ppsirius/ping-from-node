@@ -1,10 +1,8 @@
-import { pingLoopRunning } from "./index";
+import { pingStatus } from "./index";
 
 export default (req, res) => {
-  console.log("status");
   if (req.method === "GET") {
-    console.log(pingLoopRunning);
-    res.send(JSON.stringify(pingLoopRunning));
+    res.send(JSON.stringify(pingStatus.get()));
   } else {
     new Error("Unhandled method");
   }
